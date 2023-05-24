@@ -1,0 +1,22 @@
+// Layout
+$mobileWidth: 375px;
+$desktopWidth: 1440px;
+
+// Colors - Primary
+$softOrange: hsl(35, 77%, 62%);
+$softRed: hsl(5, 85%, 63%);
+
+// Colors - Neutral
+$offWhite: hsl(36, 100%, 99%);
+$grayishBlue: hsl(233, 8%, 79%);
+$darkGrayishBlue: hsl(236, 13%, 42%);
+$veryDarkBlue: hsl(240, 100%, 5%);
+
+// Typography - Body
+$fontSize: 15px;
+
+// Typography - Font
+$fontFamily: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+$fontRegular: 400;
+$fontSemiBold: 700;
+$fontBold: 800;
